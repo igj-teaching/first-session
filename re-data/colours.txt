@@ -1,0 +1,19 @@
+Colours
+Colors
+grey
+gray
+Grey
+Gray.
+Purple 1
+Purple 2
+Purple 3
+Purple A
+Purple B
+Purple C
+Blue.
+Blue 11
+Blue 123
+light blue
+dark blue
+light blue, even lighter
+dark blue, even darker
